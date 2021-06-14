@@ -1,9 +1,10 @@
 body{
-    background-color: grey;
+    background-color: rgba(128, 128, 128, 0.925);
     display: grid;
     max-width: fit-content;
     margin: auto; 
     max-width: 800px;
+    font-size: large;
 
 }
 
